@@ -2,7 +2,7 @@ const width = 500;
 const height = 600;
 const quantity = 150;
 const types = [ 'text', 'select', 'progress', 'meter', 'button', 'radio', 'checkbox' ];
-const greetings = [ 'Joyeuses Fêtes','Felices Fiestas','God Jul','Boas Festas','Mutlu Bayramlar','Sarbatori Fericite','Jie Ri Yu Kuai','Bones Festes','Tanoshii kurisumasu wo','Buone Feste','Happy Holidays', 'Ii holide eximnandi','Frohe Feiertage','Prettige feestdagen','Beannachtaí na Féile','Vesele Praznike','Selamat Hari Raya','Sretni praznici' ];
+const greetings = [ '彭家妍','杨晓光','咱们跨个年吧','圣诞节快乐','我爱你','11月5号','9月31号','彭家妍','杨晓光','12月11号','圣诞节快乐', 'I love you','I like you','我们在一起啦','我想你啦','七月初七','八月十五','中秋节&七夕节' ];
 
 let tree = document.querySelector( '.tree' ),
 	treeRotation = 0;
